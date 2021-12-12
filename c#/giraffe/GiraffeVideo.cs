@@ -203,7 +203,7 @@ namespace giraffe
 */
 
 
-          //MADLIB
+/*          //MADLIB
             Console.WriteLine("LET'S PLAY A MAD LIB!");
 
             string lib1, lib2, lib3, lib4, lib5, lib6;
@@ -226,6 +226,7 @@ namespace giraffe
             Console.WriteLine("In the book War of the " + lib1 + ", the main character is an anonymous " + lib2 + 
                               "\nwho records the arrival of " + lib3 + " in " + lib4 + ". Needless to say, havoc reigns as the\n" + lib3 + 
                               " continue to " + lib5 + " everything in sight, until they are killed by the \ncommon " + lib6 + ".");
+*/                
 
 
 
